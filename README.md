@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="raphaellabartoncello" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=raphaellabartoncello" alt="raphaellabartoncello" /></p>
 
 ### 👋 Raphaella Bartoncello
 <p align = "justify">Economista e desenvolvedora de software, atua como Cientista de dados desenvolvendo soluções que apoiam a visão estratégica das áreas de negócio e seus processos de tomada de decisão. Proficiente na língua espanhola e com experiência no exterior. Tem interesse em estatística e inteligência artificial (reconhecimento de padrões, machine learning e deep learning).</p>
