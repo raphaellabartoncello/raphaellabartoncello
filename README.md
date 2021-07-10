@@ -1,7 +1,7 @@
 ### 👋 Raphaella Bartoncello
 <p align = "justify">Economista e desenvolvedora de software, atua como Cientista de dados desenvolvendo soluções que apoiam a visão estratégica das áreas de negócio e seus processos de tomada de decisão. Proficiente na língua espanhola e com experiência no exterior. Tem interesse em estatística e inteligência artificial (reconhecimento de padrões, machine learning e deep learning).</p>
 
-<a href="https://www.linkedin.com/in/raphaellabartoncello/" target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-raphaellabartoncello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaellabartoncello/)</a>
+<a href="https://www.linkedin.com/in/raphaellabartoncello/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-raphaellabartoncello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaellabartoncello/ target="_blank")</a>
 
 ## ⚡ GitHub Stats
 
